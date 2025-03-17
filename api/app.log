@@ -1,0 +1,47 @@
+INFO:root:Session ID: string, User Query: Hi, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: string, User Query: strfing, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: It looks like there might have been a typo in your message. Could you please clarify what you meant by "strfing"? Are you looking for information on string formatting, a specific topic, or something else?
+INFO:root:Session ID: string, User Query: HI, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: Hello! How can I assist you today?
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: When was GreenGrow founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: GreenGrow Innovations was founded in 2010.
+INFO:root:Session ID: None, User Query: When was GreenGrow founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 8b80384f-bc0f-4356-b40d-3d7dcf64c48f, AI Response: GreenGrow Innovations was founded in 2010.
+INFO:root:Session ID: None, User Query: where was Nexora Technologies founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: f71830b2-24ce-414b-91d9-f793f0a031e3, AI Response: The provided context does not mention Nexora Technologies or its founding location. It only provides information about GreenGrow Innovations. If you have questions specifically about GreenGrow or need information on another topic, feel free to ask!
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: what is Nexora technologies?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: d9ce3f91-80d2-41c4-9df4-c29ae5382dd2, AI Response: I'm sorry, but I don't have information about Nexora Technologies based on the current context. If you need details about GreenGrow Innovations, I can help with that! Otherwise, please specify what you're looking for, and I can assist you in another way.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: what is Nexora technologies?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: f51dbdc5-b7eb-46a2-88a9-c3357b9c2049, AI Response: Nexora Technologies is a leading provider of AI-driven solutions, specializing in machine learning, data analysis, and natural language processing. Founded in 2015 by a team of AI researchers and data scientists, the company is headquartered in Silicon Valley, California. Nexora's mission is to empower businesses with smart, data-driven insights to improve efficiency and drive innovation.
+
+The core services offered by Nexora include:
+
+- **AI Consulting:** Providing strategic guidance and technical support to help businesses integrate AI into their operations.
+- **Machine Learning Models:** Developing custom machine learning models tailored to specific industry needs, such as predictive analytics and recommendation systems.
+- **NexBot:** An AI-powered virtual assistant for customer support and internal automation.
+- **NexTrack:** A real-time monitoring tool for enhancing business performance and operational efficiency.
+
+Nexora serves a diverse range of clients across various industries, including finance, healthcare, e-commerce, and manufacturing, including Fortune 500 companies and fast-growing startups. The company reported a significant increase in revenue in 2024, reflecting strong demand for its AI-based solutions. Additionally, Nexora plans to expand its global presence and invest in next-generation AI models.
